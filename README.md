@@ -51,7 +51,7 @@
 `Beta Testing`
 
 ### Lisensi
-Repository ini dilindungi oleh lisensi [PAK POLISI](https://mit-license.org/)
+Repository ini dilindungi oleh lisensi [Ru'u Ndanda Bopa](https://mit-license.org/)
 
 ### Credits
 - [Dharak36](https://github.com/dharak36/Xray-core)
