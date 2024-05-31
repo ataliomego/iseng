@@ -1,7 +1,6 @@
 
 ### PERHATIAN
 - Terima kasih untuk tidak menjual maupun mengenkripsi skrip ini. Saya mendapatkan secara gratis, jadi saya ataupun kalian harus berbagi secara gratis.
-- Script ini .
 - Status servis terkadang miss informasi. Dimana pada status dead tetapi jika dilihat by servis statusnya sudah aktif. Jadi bisa diabaikan
 - Jika mendapatkan error pada status servis dalam jangka panjang, bisa restart servis yang dead.
 
